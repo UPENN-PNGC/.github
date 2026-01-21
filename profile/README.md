@@ -6,7 +6,7 @@ on GitHub.
 
 ## About Us
 
-The Penn Neuroscience Graduate Center (PNGC) at the University of Pennsylvania is a premier research and educational institution dedicated to advancing the understanding of the nervous system through innovative research, interdisciplinary collaboration, and world-class training. We bring together faculty, students, and researchers from diverse fields to tackle fundamental questions in neuroscience and translate discoveries into clinical applications.
+The Penn Neuroscience Graduate Center (PNGC) at the University of Pennsylvania is dedicated to advancing the understanding of the nervous system through innovative research, interdisciplinary collaboration, and world-class training. We bring together faculty, students, and researchers from diverse fields to tackle fundamental questions in neuroscience and translate discoveries into clinical applications.
 
 Our mission is to foster a collaborative environment that promotes excellence in neuroscience research, education, and training while preparing the next generation of neuroscience leaders.
 
