@@ -100,7 +100,7 @@ We offer regular training sessions on:
 
 ### Getting Started
 New to PNGC? Here's how to begin:
-1. Review our [training requirements and milestones]
+1. Review our training requirements and milestones
 2. Attend the new student orientation
 3. Connect with potential rotation advisors
 4. Join relevant discussion groups and seminars
@@ -108,7 +108,7 @@ New to PNGC? Here's how to begin:
 
 ## Connect With Us
 
-- **Website:** [www.penn-ngc.org](https://www.penn-ngc.org/)
+- **Website:** [penn-ngc.org](https://www.penn-ngc.org/)
 - **GitHub:** [@UPENN-PNGC](https://github.com/UPENN-PNGC)
 - **Location:** University of Pennsylvania, Philadelphia, PA
 
