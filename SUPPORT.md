@@ -4,6 +4,8 @@ Thank you for using UPENN-PNGC projects! We're here to help.
 
 ## Getting Help
 
+PNGC is an academic organization and does not directly manage many affiliated GitHub repositories. For project or application specific questions or support, please contact the maintainer or support contact listed in the relevant repository.
+
 ### Documentation
 
 First, check the documentation:
@@ -15,9 +17,9 @@ First, check the documentation:
 ### Common Issues
 
 Before seeking help, check if your issue is addressed in:
-- [FAQ sections](https://github.com/orgs/UPENN-PNGC/repositories)
-- Existing [GitHub Issues](https://github.com/orgs/UPENN-PNGC/repositories)
-- Closed issues with similar problems
+
+- The README or documentation section of the relevant repository
+- The Issues tab of the repository for open or closed issues with similar problems
 
 ## Ways to Get Support
 
