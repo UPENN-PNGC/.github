@@ -21,7 +21,7 @@ If you discover a security vulnerability within any UPENN-PNGC project, please r
 
 ### What to Expect
 
-- **Acknowledgment**: We will acknowledge receipt of your vulnerability report within 48 hours
+- **Acknowledgment**: We will acknowledge receipt of your vulnerability report within a week (please make allowances for the slow pace of academia).
 - **Updates**: We will keep you informed about the progress of addressing the vulnerability
 - **Timeline**: We aim to address critical vulnerabilities within 30 days
 - **Credit**: With your permission, we will acknowledge your contribution in the fix announcement
