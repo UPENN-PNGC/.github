@@ -1,14 +1,10 @@
 # Welcome to UPENN-PNGC
 
-The University of Pennsylvania's<br/>
-![PNGC Logo](./pngc-logo.svg)<br/>
-on GitHub.
+This organization hosts repositories and projects related to PNGC research and training initiatives.
 
 ## About Us
 
-The Penn Neuroscience Graduate Center (PNGC) at the University of Pennsylvania is dedicated to advancing the understanding of the nervous system through innovative research, interdisciplinary collaboration, and world-class training. We bring together faculty, students, and researchers from diverse fields to tackle fundamental questions in neuroscience and translate discoveries into clinical applications.
-
-This organization hosts repositories and projects related to PNGC research and training initiatives.
+The Penn Neurodegeneration Genomics Center (PNGC) at the University of Pennsylvania is dedicated to advancing the understanding of the nervous system through innovative research, interdisciplinary collaboration, and world-class training. We bring together faculty, students, and researchers from diverse fields to tackle fundamental questions in neuroscience and translate discoveries into clinical applications.
 
 ## Our Mission
 
